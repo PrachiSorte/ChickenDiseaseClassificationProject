@@ -1,0 +1,17 @@
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML  # To read YAML files
+tqdm  # For progress bars if code is taking a long time
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask   # Web framework for building APIs
+Flask-Cors
+-e .   # To install setup.py
